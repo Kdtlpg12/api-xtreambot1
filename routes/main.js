@@ -23,9 +23,9 @@ router.get('/config', (req, res) => {
     config = {
         status: true,
         result: {
-            prefix : 'z',
-            namabot: 'Alphabot',
-            namaowner: 'zeeone',
+            prefix : '',
+            namabot: 'xtream-bot',
+            namaowner: 'ido ganteng',
             instagram: 'zee.oneee',
             youtube : 'wandi'
         }
